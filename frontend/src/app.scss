@@ -1,0 +1,16 @@
+$primaryColor: rgb(219, 234, 252);
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+.app {
+  background-color: $primaryColor;
+  height: 100vh;
+}
